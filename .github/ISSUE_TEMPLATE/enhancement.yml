@@ -11,8 +11,8 @@ body:
         Enhancements are tagged `kind/enhancement`.
   - type: textarea
     attributes:
-      label: Feature or quality attribute you'd like to enhance
-      description: The feature, the context in which the feature is used and what is achieved when the feature is used.
+      label: Use case and current behavior
+      description: The context in which the feature is used and what is achieved.
       placeholder: |
           Type here.
     validations:
@@ -20,7 +20,7 @@ body:
   - type: textarea
     attributes:
       label: Enhancement
-      description: Which enhancement is required and why?
+      description: Which enhancement is required and what is the new output ?
     validations:
       required: true
   - type: textarea

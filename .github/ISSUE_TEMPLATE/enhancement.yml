@@ -1,5 +1,5 @@
-name: "⚡ Enhancement Request"
-description: Something could be better.
+name: "Enhancement Request"
+description: "Something could be better."
 title: "[ENHANCEMENT]: <Title>"
 labels: ["kind/enhancement ","status/triage"]
 body:

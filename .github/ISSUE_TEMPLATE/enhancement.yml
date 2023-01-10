@@ -6,15 +6,15 @@ body:
   - type: markdown
     attributes:
       value: |
-      Something could be better?
-      If you request is about a net new feature please use the Feature Request template.
-      Enhancements are tagged `kind/enhancement`.
+        Something could be better?
+        If you request is about a net new feature please use the Feature Request template.
+        Enhancements are tagged `kind/enhancement`.
   - type: textarea
     attributes:
       label: Feature or quality attribute you'd like to enhance
       description: The feature, the context in which the feature is used and what is achieved when the feature is used.
       placeholder: |
-          Type here.
+        Type here.
     validations:
       required: true
   - type: textarea
@@ -34,7 +34,7 @@ body:
       label: Links to Discuss, RFC or previous Issues and PRs
       description: Reference of any prior work, post on Discuss or other.
       placeholder: |
-          Type here.
+        Type here.
     validations:
       required: false
   - type: textarea
@@ -42,7 +42,7 @@ body:
       label: Links to examples and research
       description: Is there a software that has this feature? Any relevant standards or conventions?
       placeholder: |
-          Type here.
+        Type here.
     validations:
       required: false
   - type: textarea

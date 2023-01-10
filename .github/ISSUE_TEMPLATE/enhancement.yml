@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-      Something could be better?
-      If you request is about a net new feature please use the Feature Request template.
-      Enhancements are tagged `kind/enhancement`.
+        Something could be better?
+        If you request is about a net new feature please use the Feature Request template.
+        Enhancements are tagged `kind/enhancement`.
   - type: textarea
     attributes:
       label: Feature or quality attribute you'd like to enhance
